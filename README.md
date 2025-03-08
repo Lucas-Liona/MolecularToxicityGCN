@@ -26,6 +26,47 @@
 
 #### This was the last portion of my project, the problem comes from the book Understanding Deep Learning, and there was an existing database of molecules for the problem. Problems like these are actively being researched with more complex models to research medicine side effects, potential risk of new molecules and medicines without having to preform lab tests. This demonstration is a laymans understanding of the problem, but an accuracy of 75% is not bad!
 
+# Future Work
+
+I plan to build on this project in several directions that combine my interests in applied mathematics and computer science. Given the foundation I've established with this GCN implementation, I'm excited to extend my research in these areas:
+
+## Health & Medicine Applications
+
+I want to take my research towards machine learning for drug side effects, which would be a natural extension of this toxicity prediction work. This could involve:
+
+- Implementing more complex molecular representation techniques that capture 3D structures
+- Incorporating patient data to predict personalized side effect risks
+- Developing multi-task models that simultaneously predict efficacy and side effects
+- Working with larger pharmaceutical datasets beyond Tox21
+
+## Financial Applications
+
+Another area that interests me is applying similar graph-based techniques to the stock market. Financial markets naturally form graphs where companies are nodes and various relationships (supply chains, investments, etc.) form edges. This would involve:
+
+- Adapting GCNs to temporal graph structures that change over time
+- Incorporating market sentiment data alongside quantitative metrics
+- Building prediction models for stock correlations and market movements
+- Developing trading strategies based on graph pattern recognition
+
+## Real-World System Optimization
+
+I also want to look into real-world current systems and how they optimize and manage complexity. This could include:
+
+- Studying how supply chain networks can be optimized using graph neural networks
+- Exploring traffic flow prediction and optimization using spatial-temporal graphs
+- Investigating power grid management with graph-based approaches
+- Applying these techniques to university resource allocation or class scheduling
+
+As I continue my studies in Computer Science and Applied Math, I'm particularly interested in finding opportunities to collaborate with professors and graduate students on these topics. The intersection of graph theory, deep learning, and real-world applications presents fascinating research possibilities that I'm eager to explore.
+
+
+## Guidance
+
+* Prof. Siqi Fu
+* Prof. Sunil Shende
+* Stanford Lecture Series
+* 3Blue1Brown
+
 
 # Resources Utilized
 
