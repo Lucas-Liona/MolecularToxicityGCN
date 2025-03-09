@@ -12,6 +12,7 @@
 
 # I am currently a Junior Computer Science and Applied Math Double Major, while this topic proved challenging intially, this has been an excellent experience that has taught me how neural networks, graphs, and GCNs work. It has also helped me refine my career goals and aspirations, and helped me understand the intersection of Computer Science and other STEM fields, and the implications of research like this. I want to further my research on topics like this, and hopefully research auto-immune diseases one day, although I do not study Chemistry/Biology/Health Sciences, I love all STEM fields.
 
+[![Lecture](https://img.youtube.com/vi/bRZ0R5iKlY0/0.jpg)](https://youtu.be/bRZ0R5iKlY0)
 
 # Project Overview
 
